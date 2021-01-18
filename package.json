@@ -1,0 +1,22 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "sistema de gestion de productos",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsmarMerlos/products.git"
+  },
+  "author": "OsmarMerlos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsmarMerlos/products/issues"
+  },
+  "homepage": "https://github.com/OsmarMerlos/products#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
